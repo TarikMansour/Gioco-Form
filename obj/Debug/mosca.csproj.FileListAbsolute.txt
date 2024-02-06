@@ -1,0 +1,10 @@
+C:\Users\studente\Desktop\mosca\bin\Debug\mosca.exe.config
+C:\Users\studente\Desktop\mosca\bin\Debug\mosca.exe
+C:\Users\studente\Desktop\mosca\bin\Debug\mosca.pdb
+C:\Users\studente\Desktop\mosca\obj\Debug\mosca.csproj.AssemblyReference.cache
+C:\Users\studente\Desktop\mosca\obj\Debug\mosca.Form1.resources
+C:\Users\studente\Desktop\mosca\obj\Debug\mosca.Properties.Resources.resources
+C:\Users\studente\Desktop\mosca\obj\Debug\mosca.csproj.GenerateResource.cache
+C:\Users\studente\Desktop\mosca\obj\Debug\mosca.csproj.CoreCompileInputs.cache
+C:\Users\studente\Desktop\mosca\obj\Debug\mosca.exe
+C:\Users\studente\Desktop\mosca\obj\Debug\mosca.pdb
